@@ -1,6 +1,6 @@
 cask "tinywm" do
-  version "0.5.0"
-  sha256 "bb8c65e22d4eca58ddaaeda7d6c584e4d95fc0100957fd724594edc0f90dde16"
+  version "0.6.0"
+  sha256 "3b50c89978583bf8acc0ebe5f5933ef9016e0040f965daeef65a8764f639ed96"
 
   url "https://github.com/daothanhduy305/tinywm/releases/download/v#{version}/tinywm-#{version}.zip"
   name "tinywm"
